@@ -120,7 +120,7 @@
 
 | Título e repositório | Integrantes | E-mails |
 | --- | --- | --- |
-| [Classificador-Alfa](https://github.com/thomaschiari/Classificador-Alfa) | Thomas Chiari Ciocchetti de Souza, Marcelo Rabello Barranco | thomasccs@al.insper.edu.br, marcelorb5@al.insper.edu.br |
+| [Classificador-Alfa](https://github.com/thomaschiari/Classificador-Alfa) | Marcelo Rabello Barranco, Thomas Chiari Ciocchetti de Souza | marcelorb5@al.insper.edu.br, thomasccs@al.insper.edu.br |
 
 
 
